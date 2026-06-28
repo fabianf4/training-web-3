@@ -24,7 +24,7 @@ Landing page de un portal de noticias tech. Los usuarios pueden:
 ## Enlaces
 
 - Solución: [https://www.frontendmentor.io/solutions/...](https://www.frontendmentor.io/solutions/)
-- Sitio vivo: [https://...](https://...)
+- Sitio vivo: [https://fabianf4.github.io/training-web-3/](https://fabianf4.github.io/training-web-3/)
 
 ## Construido con
 
